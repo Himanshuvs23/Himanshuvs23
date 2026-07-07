@@ -1,3 +1,8 @@
+<div align="center">
+  <p align="center">
+  <img src="./image_812728f6.png" alt="Banner Image" width="100%"/>
+</p>
+</div>
 <h1 align="center">
 Hi 👋, I'm Himanshu Shivde
 </h1>
