@@ -1,10 +1,15 @@
 <h1 align="center">
-  👋 Hi, I'm Himanshu Shivde
+Hi 👋, I'm Himanshu Shivde
 </h1>
 
 <h3 align="center">
-  Software Engineer • Full Stack Developer • AI Enthusiast
+Software Engineer • Full Stack Developer • AI Engineer
 </h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Java+Backend+Developer;Node.js+%7C+Next.js+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
+
 
 <p align="center">
   <a href="mailto:golushivde23@gmail.com">
@@ -42,79 +47,160 @@ Built with <strong>Next.js</strong>, <strong>TypeScript</strong>, and modern web
   🌐 <a href="https://your-portfolio-url.vercel.app"><strong>Live Website</strong></a>
 </p>
 
----
 
-## ✨ Features
-
-✅ Responsive Design
-
-✅ Modern UI/UX
-
-✅ Project Showcase
-
-✅ Skills & Experience
-
-✅ Resume Download
-
-✅ Contact Form
-
-✅ Fast Performance
-
-✅ SEO Optimized
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github,tailwind,vercel,vscode" />
-
-</p>
-
----
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. Computer Science & Engineering
-- 💼 Full Stack Software Engineer
-- 🚀 Passionate about scalable backend systems
-- 🤖 Building AI-powered applications
-- 📚 Strong foundation in DSA, OOP, System Design & REST APIs
-- 🌱 Currently learning Cloud, GraphQL, Kubernetes & AWS
+🎓 Computer Science Engineer
+
+💼 Freelance Software Engineer
+
+🚀 Built 3 Production Applications
+
+⚡ Developed 39+ REST APIs
+
+📚 Strong in Java, DSA, System Design & Backend
+
+🤖 Passionate about AI Agents, LLMs & Full Stack Development
+
+🌱 Currently Learning
+
+- AWS
+- Kubernetes
+- GraphQL
+- Microservices
+- Gen AI
+  
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,c,python"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+
+</p>
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis"/>
+
+</p>
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,aws"/>
+
+</p>
+
+### AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</p>
+### 💼 Experience
+
+### Freelance Software Engineer
+
+🚀 Built 3 Production Grade Applications
+
+⚡ 39 REST APIs
+
+🗄️ 13 MongoDB Collections
+
+📦 15+ Modules
+
+🔒 JWT Authentication
+
+⚡ Response Time 50-300ms
+
+📈 Reduced Page Load by 65%
+
+🏗️ Clean Architecture
+
+🧩 SOLID Principles
+
+
+## 🚀 Featured Projects
+
+### 🤖 AI Powered Autonomous Task Agent
+
+AI Agents
+
+OpenAI
+
+Memory
+
+LLMs
+
+REST APIs
+
+React
+
+Node.js
 
 ---
 
-## 📈 Experience
+### 🏛 GP Village Management Platform
 
-💼 **Freelance Software Engineer**
+Next.js
 
-- Built **3 production-grade web applications**
-- Developed **39 REST APIs**
-- Designed **13 MongoDB collections**
-- Built **15+ application modules**
-- Improved API response time to **50–300ms**
-- Reduced page load time by **65%**
-- Implemented JWT Authentication, RBAC, Caching & Clean Architecture
+MongoDB
 
----
+Admin Dashboard
 
-## 🚀 Featured Project
+Authentication
 
-### AI Powered Autonomous Task Agent
-
-An AI-powered application capable of performing intelligent workflows using multiple LLMs.
-
-### Highlights
-
-- 🤖 OpenAI & OpenRouter Integration
-- 🧠 Memory Management
-- 🔄 AI Workflows
-- 🔐 Secure REST APIs
-- 📝 Logging & Validation
-- ⚡ Modular Backend Architecture
+39 APIs
 
 ---
+
+### ☁ Cloud Cost Optimizer
+
+AWS
+
+Lambda
+
+EC2
+
+EKS
+
+Cost Analysis
+
 
 ## 📊 GitHub Stats
 
@@ -161,3 +247,10 @@ An AI-powered application capable of performing intelligent workflows using mult
 <h3 align="center">
 ⭐ If you like my work, consider giving this repository a star!
 </h3>
+
+Visitors
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Himanshuvs23&style=for-the-badge&color=blue"/>
+
+</p>
